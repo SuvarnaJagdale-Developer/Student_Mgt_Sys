@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "22ywbEoUnMdbJ9jG/spGU2C/sNSxWPtO/6a0ANYg3KViB1o95IOlWAp2UhrWvgEkebyNusQ6oYw0mSRw/nrI4w==",
+  "success": true,
+  "projectFilePath": "E:\\Suvarna_Imp\\Student_Mgt_Sys\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ELITE\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.20\\microsoft.aspnetcore.jsonpatch.3.1.20.nupkg.sha512",
+    "C:\\Users\\ELITE\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.20\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.20.nupkg.sha512",
+    "C:\\Users\\ELITE\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ELITE\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\ELITE\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
